@@ -1,0 +1,2167 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="1",Первый HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/204/index.m3u
+#EXTINF:0 tvg-rec="1",Первый канал
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/127/index.m3u
+#EXTINF:0 tvg-rec="1",Первый канал (+2)
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/714/index.m3u
+#EXTINF:0 tvg-rec="1",Россия HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/205/index.m3u
+#EXTINF:0 tvg-rec="1",Россия 1
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/504/index.m3u
+#EXTINF:-1,Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-rec="1",РТР
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2183/index.m3u
+#EXTINF:0 tvg-rec="1",СТС
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/506/index.m3u
+#EXTINF:0 tvg-rec="1",ТВ3
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/508/index.m3u
+#EXTINF:0 tvg-rec="1",РЕН ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/128/index.m3u
+#EXTINF:0 tvg-rec="1",Рен ТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2024/index.m3u
+#EXTINF:0 tvg-rec="1",РЕН ТВ (+2)
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/747/index.m3u
+#EXTINF:0 tvg-rec="1",Че
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/513/index.m3u
+#EXTINF:0 tvg-rec="1",Домашний
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/514/index.m3u
+#EXTINF:0 tvg-rec="1",КИНО ТВ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/732/index.m3u
+#EXTINF:0 tvg-rec="1",КИНО ТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2097/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Premiere
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/202/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Comedy
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/200/index.m3u
+#EXTINF:0 tvg-rec="1",VIP Megahit
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/201/index.m3u
+#EXTINF:0 tvg-rec="1",Кинокомедия HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2132/index.m3u
+#EXTINF:0 tvg-rec="1",Комедийное HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/912/index.m3u
+#EXTINF:0 tvg-rec="1",Русская Комедия
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/733/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/132/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000 Action
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/131/index.m3u
+#EXTINF:0 tvg-rec="0",TV1000 World Kino
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1065/index.m3u
+#EXTINF:0 tvg-rec="1",TV 1000 Русское кино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/101/index.m3u
+#EXTINF:0 tvg-rec="0",Шокирующее
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/913/index.m3u
+#EXTINF:0 tvg-rec="0",H2
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1052/index.m3u
+#EXTINF:0 tvg-rec="1",H2 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2033/index.m3u
+#EXTINF:0 tvg-rec="1",КВН ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/546/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/501/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/502/index.m3u
+#EXTINF:0 tvg-rec="1",Пятница!
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/503/index.m3u
+#EXTINF:0 tvg-rec="1",Супер
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/826/index.m3u
+#EXTINF:0 tvg-rec="1",Ностальгия
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/102/index.m3u
+#EXTINF:0 tvg-rec="1",СТС Love
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/103/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Sci-Fi
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/110/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОМИКС
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/509/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСЕМЬЯ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/125/index.m3u
+#EXTINF:0 tvg-rec="1",РОДНОЕ КИНО
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/126/index.m3u
+#EXTINF:0 tvg-rec="1",Кинохит
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/516/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia 2
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/510/index.m3u
+#EXTINF:0 tvg-rec="1",Наше новое кино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/517/index.m3u
+#EXTINF:0 tvg-rec="1",TV XXI
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/525/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/145/index.m3u
+#EXTINF:0 tvg-rec="1",ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/146/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСЕРИЯ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/148/index.m3u
+#EXTINF:0 tvg-rec="1",Русский Иллюзион
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/547/index.m3u
+#EXTINF:0 tvg-rec="1",Еврокино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/549/index.m3u
+#EXTINF:0 tvg-rec="1",Fox Russia
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/550/index.m3u
+#EXTINF:0 tvg-rec="1",Fox Life
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/553/index.m3u
+#EXTINF:0 tvg-rec="1",Дом Кино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/154/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia 1
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/554/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia Premium HD (SD)
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/555/index.m3u
+#EXTINF:0 tvg-rec="1",AMEDIA HIT
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/556/index.m3u
+#EXTINF:0 tvg-rec="1",МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/164/index.m3u
+#EXTINF:0 tvg-rec="1",Hollywood
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/557/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Entertainment Television
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/559/index.m3u
+#EXTINF:0 tvg-rec="1",2X2
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/702/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Turbo
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/708/index.m3u
+#EXTINF:0 tvg-rec="1",Русский бестселлер
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/905/index.m3u
+#EXTINF:0 tvg-rec="1",Русский роман
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/906/index.m3u
+#EXTINF:0 tvg-rec="1",Русский детектив
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/907/index.m3u
+#EXTINF:0 tvg-rec="1",Любимое Кино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/722/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/728/index.m3u
+#EXTINF:0 tvg-rec="1",FAN
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/734/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ?ХИТ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/741/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Сериал
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/744/index.m3u
+#EXTINF:0 tvg-rec="1",НСТ
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/726/index.m3u
+#EXTINF:0 tvg-rec="1",Bollywood
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/719/index.m3u
+#EXTINF:0 tvg-rec="0",ZEE TV
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1001/index.m3u
+#EXTINF:0 tvg-rec="0",Filmbox Arthouse
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1071/index.m3u
+#EXTINF:0 tvg-rec="0",Дорама
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1066/index.m3u
+#EXTINF:0 tvg-rec="1",Мир Сериала
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/856/index.m3u
+#EXTINF:0 tvg-rec="1",Ретро
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2018/index.m3u
+#EXTINF:0 tvg-rec="1",Иллюзион +
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2038/index.m3u
+#EXTINF:0 tvg-rec="1",Феникс плюс Кино
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2039/index.m3u
+#EXTINF:0 tvg-rec="1",Paramount Channel
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2055/index.m3u
+#EXTINF:0 tvg-rec="1",Sony Channel HD
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2062/index.m3u
+#EXTINF:0 tvg-rec="1",Киносат
+#EXTGRP:кино
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2121/index.m3u
+
+#EXTINF:0 tvg-rec="1",ТНВ-Планета
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/515/index.m3u
+#EXTINF:0 tvg-rec="1",ТВЦ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/520/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал Да Винчи
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/537/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал Звезда
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/544/index.m3u
+#EXTINF:0 tvg-rec="1",Ю ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/534/index.m3u
+#EXTINF:0 tvg-rec="1",Мама
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/704/index.m3u
+#EXTINF:0 tvg-rec="1",Драйв
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2021/index.m3u
+#EXTINF:0 tvg-rec="1",Мужской
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2047/index.m3u
+#EXTINF:0 tvg-rec="1",Luxury World
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2072/index.m3u
+#EXTINF:0 tvg-rec="1",Мир Premium
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2105/index.m3u
+#EXTINF:0 tvg-rec="1",Мир
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/113/index.m3u
+#EXTINF:0 tvg-rec="1",ОТР
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/705/index.m3u
+#EXTINF:0 tvg-rec="1",CBS Reality
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/706/index.m3u
+#EXTINF:0 tvg-rec="1",ТВЦ (+2)
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/716/index.m3u
+#EXTINF:0 tvg-rec="1",NHK World TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/729/index.m3u
+#EXTINF:0 tvg-rec="1",Fine Living
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/735/index.m3u
+#EXTINF:0 tvg-rec="1",ЖИВИ!
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/738/index.m3u
+#EXTINF:0 tvg-rec="1",Звезда (+2)
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/739/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Право
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/743/index.m3u
+#EXTINF:0 tvg-rec="1",Сарафан
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/748/index.m3u
+#EXTINF:0 tvg-rec="1",РБК-ТВ
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/106/index.m3u
+#EXTINF:0 tvg-rec="1",Пятый канал
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/112/index.m3u
+#EXTINF:0 tvg-rec="1",Россия-24
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/507/index.m3u
+#EXTINF:0 tvg-rec="1",Москва 24
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/523/index.m3u
+#EXTINF:0 tvg-rec="1",BBC World News
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/545/index.m3u
+#EXTINF:0 tvg-rec="1",Мир 24
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/712/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ (+2)
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/713/index.m3u
+#EXTINF:0 tvg-rec="1",Санкт-Петербург
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/715/index.m3u
+#EXTINF:0 tvg-rec="1",Пятый Канал (+2)
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/746/index.m3u
+#EXTINF:0 tvg-rec="1",История
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/111/index.m3u
+#EXTINF:0 tvg-rec="1",Моя Планета
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/117/index.m3u
+#EXTINF:0 tvg-rec="1",Outdoor Channel
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/119/index.m3u
+#EXTINF:0 tvg-rec="1",Совершенно секретно
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/121/index.m3u
+#EXTINF:0 tvg-rec="1",Россия-Культура
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/505/index.m3u
+#EXTINF:0 tvg-rec="1",Доктор
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/512/index.m3u
+#EXTINF:0 tvg-rec="1",Авто 24
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/538/index.m3u
+#EXTINF:0 tvg-rec="1",Nat Geo Wild
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/133/index.m3u
+#EXTINF:0 tvg-rec="1",nat geographic
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/134/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Science
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/136/index.m3u
+#EXTINF:0 tvg-rec="1",Animal Planet
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/137/index.m3u
+#EXTINF:0 tvg-rec="1",ID Xtra
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/139/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Channel
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/140/index.m3u
+#EXTINF:0 tvg-rec="1",Авто Плюс
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/151/index.m3u
+#EXTINF:0 tvg-rec="1",Кухня ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/152/index.m3u
+#EXTINF:0 tvg-rec="1",Время
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/552/index.m3u
+#EXTINF:0 tvg-rec="1",Домашние Животные
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/158/index.m3u
+#EXTINF:0 tvg-rec="1",Точка отрыва
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/159/index.m3u
+#EXTINF:0 tvg-rec="1",Надежда
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2153/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Nature
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/161/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat History
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/162/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Explore
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/163/index.m3u
+#EXTINF:0 tvg-rec="1",Travel Channel
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/130/index.m3u
+#EXTINF:0 tvg-rec="1",Первый образовательный
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/701/index.m3u
+#EXTINF:0 tvg-rec="1",OCEAN-TV
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/703/index.m3u
+#EXTINF:0 tvg-rec="1",Бобёр
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/725/index.m3u
+#EXTINF:0 tvg-rec="1",Зоопарк
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/731/index.m3u
+#EXTINF:0 tvg-rec="1",E
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/736/index.m3u
+#EXTINF:0 tvg-rec="1",Морской
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/742/index.m3u
+#EXTINF:0 tvg-rec="1",Усадьба
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/532/index.m3u
+#EXTINF:0 tvg-rec="0",English Club TV
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/993/index.m3u
+#EXTINF:0 tvg-rec="0",Travel TV
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1044/index.m3u
+#EXTINF:0 tvg-rec="0",Classical Harmony
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1037/index.m3u
+#EXTINF:0 tvg-rec="0",Travel Channel EN
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1070/index.m3u
+#EXTINF:0 tvg-rec="1",History Russia
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/837/index.m3u
+#EXTINF:0 tvg-rec="1",RTG TV
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/841/index.m3u
+#EXTINF:0 tvg-rec="1",Первый Метео
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/845/index.m3u
+#EXTINF:0 tvg-rec="1",Дикий
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/847/index.m3u
+#EXTINF:0 tvg-rec="1",Spike Russia
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/849/index.m3u
+#EXTINF:0 tvg-rec="1",travel+adventure
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/850/index.m3u
+#EXTINF:0 tvg-rec="1",Поехали!
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/135/index.m3u
+#EXTINF:0 tvg-rec="1",Galaxy
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2010/index.m3u
+#EXTINF:0 tvg-rec="1",Охота и рыбалка
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2019/index.m3u
+#EXTINF:0 tvg-rec="1",ЕГЭ ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2020/index.m3u
+#EXTINF:0 tvg-rec="1",HD Media
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2037/index.m3u
+#EXTINF:0 tvg-rec="1",365 дней ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2040/index.m3u
+#EXTINF:0 tvg-rec="1",Телепутешествия
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2051/index.m3u
+#EXTINF:0 tvg-rec="1",Здоровье
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2054/index.m3u
+#EXTINF:0 tvg-rec="1",ТАЙНА
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2059/index.m3u
+#EXTINF:0 tvg-rec="1",Синергия ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2067/index.m3u
+#EXTINF:0 tvg-rec="1",Нано ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2081/index.m3u
+#EXTINF:0 tvg-rec="1",Investigation Discovery
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2085/index.m3u
+#EXTINF:0 tvg-rec="1",Оружие
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2087/index.m3u
+#EXTINF:0 tvg-rec="1",Зоо ТВ
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2100/index.m3u
+#EXTINF:0 tvg-rec="1",Живая Планета
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2101/index.m3u
+#EXTINF:0 tvg-rec="1",Наша тема
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2118/index.m3u
+#EXTINF:0 tvg-rec="1",Пёс и Ко
+#EXTGRP:познавательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2123/index.m3u
+#EXTINF:0 tvg-rec="1",Tiji TV
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/108/index.m3u
+#EXTINF:0 tvg-rec="1",Gulli
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/109/index.m3u
+#EXTINF:0 tvg-rec="1",Nick Jr
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/114/index.m3u
+#EXTINF:0 tvg-rec="1",Nickelodeon
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/541/index.m3u
+#EXTINF:0 tvg-rec="1",Disney
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/524/index.m3u
+#EXTINF:0 tvg-rec="1",Детский мир
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/543/index.m3u
+#EXTINF:0 tvg-rec="1",Jim Jam
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/138/index.m3u
+#EXTINF:0 tvg-rec="1",Cartoon Network
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/143/index.m3u
+#EXTINF:0 tvg-rec="1",Карусель
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/156/index.m3u
+#EXTINF:0 tvg-rec="1",Ani
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/129/index.m3u
+#EXTINF:0 tvg-rec="1",Мульт
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/909/index.m3u
+#EXTINF:0 tvg-rec="1",Тлум HD
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/240/index.m3u
+#EXTINF:0 tvg-rec="1",Boomerang
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/723/index.m3u
+#EXTINF:0 tvg-rec="1",О!
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/727/index.m3u
+#EXTINF:0 tvg-rec="1",Детский
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/730/index.m3u
+#EXTINF:0 tvg-rec="1",В гостях у сказки
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/737/index.m3u
+#EXTINF:0 tvg-rec="1",Карусель (+3)
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/740/index.m3u
+#EXTINF:0 tvg-rec="1",Мультимузыка
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/749/index.m3u
+#EXTINF:0 tvg-rec="1",Мультик HD
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/921/index.m3u
+#EXTINF:0 tvg-rec="0",Duck TV
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1031/index.m3u
+#EXTINF:0 tvg-rec="1",Baby TV
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2084/index.m3u
+#EXTINF:0 tvg-rec="0",Da Vinci Kids
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1033/index.m3u
+#EXTINF:0 tvg-rec="0",Da Vinci Kids PL
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1034/index.m3u
+#EXTINF:0 tvg-rec="0",Малыш
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1041/index.m3u
+#EXTINF:0 tvg-rec="0",Nickelodeon EN
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1069/index.m3u
+#EXTINF:0 tvg-rec="1",Радость моя
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/853/index.m3u
+#EXTINF:0 tvg-rec="1",Рыжий
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2052/index.m3u
+#EXTINF:0 tvg-rec="1",Капитан Фантастика
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2098/index.m3u
+#EXTINF:0 tvg-rec="1",UTv
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2103/index.m3u
+#EXTINF:0 tvg-rec="1",Тамыр
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2109/index.m3u
+#EXTINF:0 tvg-rec="1",Пингвин Лоло
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2152/index.m3u
+#EXTINF:0 tvg-rec="1",Смайлик ТВ
+#EXTGRP:детские
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2157/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ4
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/104/index.m3u
+#EXTINF:0 tvg-rec="1",ЖАРА
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/105/index.m3u
+#EXTINF:0 tvg-rec="1",Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/157/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ (+2)
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/717/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ Стиль
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/745/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion One
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1010/index.m3u
+#EXTINF:0 tvg-rec="0",World Fashion Channel
+#EXTGRP:развлекательные
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1068/index.m3u
+
+#EXTINF:0 tvg-rec="1",Europa Plus TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/115/index.m3u
+#EXTINF:0 tvg-rec="1",МУЗ-ТВ
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/116/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE TV Русский Хит
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/120/index.m3u
+#EXTINF:0 tvg-rec="1",Bridge TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/122/index.m3u
+#EXTINF:0 tvg-rec="1",MTV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/142/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Hits
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/153/index.m3u
+#EXTINF:0 tvg-rec="1",Музыка
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/155/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/208/index.m3u
+#EXTINF:0 tvg-rec="1",VH1 European
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/536/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Dance
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/558/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/707/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ MUSIC
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/710/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE TV DANCE
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/711/index.m3u
+#EXTINF:0 tvg-rec="1",Наше ТВ
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/721/index.m3u
+#EXTINF:0 tvg-rec="1",VH1 Classic
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/724/index.m3u
+#EXTINF:0 tvg-rec="0",Vostok TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1054/index.m3u
+#EXTINF:0 tvg-rec="0",MTV Rocks
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1038/index.m3u
+#EXTINF:0 tvg-rec="1",MCM Top Russia
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/836/index.m3u
+#EXTINF:0 tvg-rec="1",RU.TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/838/index.m3u
+#EXTINF:0 tvg-rec="1",Шансон ТВ
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/859/index.m3u
+#EXTINF:0 tvg-rec="0",VIVA TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/301/index.m3u
+#EXTINF:0 tvg-rec="1", Ля-минор ТВ
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2043/index.m3u
+#EXTINF:0 tvg-rec="1",Russian Music Box
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2048/index.m3u
+#EXTINF:0 tvg-rec="1",Курай TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2061/index.m3u
+#EXTINF:0 tvg-rec="1",о2тв
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2068/index.m3u
+#EXTINF:0 tvg-rec="1",МузСоюз
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2137/index.m3u
+#EXTINF:0 tvg-rec="1",Жар Птица
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2142/index.m3u
+#EXTINF:0 tvg-rec="1",AIVA TV
+#EXTGRP:музыка
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2156/index.m3u
+#EXTINF:0 tvg-rec="0",CNL
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/955/index.m3u
+#EXTINF:0 tvg-rec="0",Al Jazeera
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/960/index.m3u
+#EXTINF:0 tvg-rec="0",TVP Info
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/961/index.m3u
+#EXTINF:0 tvg-rec="0",France 24
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/964/index.m3u
+#EXTINF:0 tvg-rec="0",AzTV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/966/index.m3u
+#EXTINF:0 tvg-rec="0",Life TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/971/index.m3u
+#EXTINF:0 tvg-rec="0",ТБН
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/974/index.m3u
+#EXTINF:0 tvg-rec="0",СПАС
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/983/index.m3u
+#EXTINF:0 tvg-rec="0",WnessTV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/984/index.m3u
+#EXTINF:0 tvg-rec="0",Архыз 24
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1049/index.m3u
+#EXTINF:0 tvg-rec="0",CBC AZ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1050/index.m3u
+#EXTINF:0 tvg-rec="0",GUNAZ TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1051/index.m3u
+#EXTINF:0 tvg-rec="0",Kabbala TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1053/index.m3u
+#EXTINF:0 tvg-rec="0",8 канал
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1057/index.m3u
+#EXTINF:0 tvg-rec="0",Астрахань 24
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1059/index.m3u
+#EXTINF:0 tvg-rec="1",Shop & Show
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/827/index.m3u
+#EXTINF:0 tvg-rec="1",CCTV-4 Europe
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/829/index.m3u
+#EXTINF:0 tvg-rec="1",Башкирское спутниковое телевидение
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/832/index.m3u
+#EXTINF:0 tvg-rec="1",Первый Вегетарианский
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/833/index.m3u
+#EXTINF:0 tvg-rec="1",RT Documentary
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/839/index.m3u
+#EXTINF:0 tvg-rec="1",Просвещение
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/846/index.m3u
+#EXTINF:0 tvg-rec="1",Продвижение
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/851/index.m3u
+#EXTINF:0 tvg-rec="1",Загородная Жизнь
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/852/index.m3u
+#EXTINF:0 tvg-rec="1",Грозный
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/855/index.m3u
+#EXTINF:0 tvg-rec="1",Брянская Губерния
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/857/index.m3u
+#EXTINF:0 tvg-rec="1",Shopping Live
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/860/index.m3u
+#EXTINF:0 tvg-rec="1",Shop 24
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/861/index.m3u
+#EXTINF:0 tvg-rec="1",Твой дом
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/864/index.m3u
+#EXTINF:0 tvg-rec="1",Телекафе
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/865/index.m3u
+#EXTINF:0 tvg-rec="1",Кубань 24 ОРБИТА
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/866/index.m3u
+#EXTINF:0 tvg-rec="1",Губерния
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/867/index.m3u
+#EXTINF:0 tvg-rec="1",ACB TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/868/index.m3u
+#EXTINF:0 tvg-rec="1",Москва Доверие
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/869/index.m3u
+#EXTINF:0 tvg-rec="1",Победа
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2003/index.m3u
+#EXTINF:0 tvg-rec="1",Союз
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2016/index.m3u
+#EXTINF:0 tvg-rec="1",Здоровое ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2022/index.m3u
+#EXTINF:0 tvg-rec="1",Психология 21
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2025/index.m3u
+#EXTINF:0 tvg-rec="1",Вопросы и ответы
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2026/index.m3u
+#EXTINF:0 tvg-rec="1",ТДК
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2034/index.m3u
+#EXTINF:0 tvg-rec="1",Globalstar TV
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2035/index.m3u
+#EXTINF:0 tvg-rec="1",Юрган
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2036/index.m3u
+#EXTINF:0 tvg-rec="1",Успех
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2041/index.m3u
+#EXTINF:0 tvg-rec="1",Кто есть кто
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2042/index.m3u
+#EXTINF:0 tvg-rec="1",Точка ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2053/index.m3u
+#EXTINF:0 tvg-rec="1",Хамдан
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2066/index.m3u
+#EXTINF:0 tvg-rec="1",Раз ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2069/index.m3u
+#EXTINF:0 tvg-rec="1",Arirang
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2071/index.m3u
+#EXTINF:0 tvg-rec="1",Открытый мир
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2078/index.m3u
+#EXTINF:0 tvg-rec="1",Загородный
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2099/index.m3u
+#EXTINF:0 tvg-rec="1",БСТ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2108/index.m3u
+#EXTINF:0 tvg-rec="1",ЛДПР ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2110/index.m3u
+#EXTINF:0 tvg-rec="1",Связист ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2111/index.m3u
+#EXTINF:0 tvg-rec="1",Мир Увлечений
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2112/index.m3u
+#EXTINF:0 tvg-rec="1",Волга
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2113/index.m3u
+#EXTINF:0 tvg-rec="1",Три ангела
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2116/index.m3u
+#EXTINF:0 tvg-rec="1",Ратник
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2119/index.m3u
+#EXTINF:0 tvg-rec="1",РЖД ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2120/index.m3u
+#EXTINF:0 tvg-rec="1",Первый Крымский
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2139/index.m3u
+#EXTINF:0 tvg-rec="1",ТОЛК
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2140/index.m3u
+#EXTINF:0 tvg-rec="1",КРЫМ 24
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2143/index.m3u
+#EXTINF:0 tvg-rec="1",Курай HD
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2144/index.m3u
+#EXTINF:0 tvg-rec="1",Красная линия
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2147/index.m3u
+#EXTINF:0 tvg-rec="1",ТНОМЕР
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2149/index.m3u
+#EXTINF:0 tvg-rec="1",Хузур ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2150/index.m3u
+#EXTINF:0 tvg-rec="1",Эхо ТВ
+#EXTGRP:другие
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2151/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ! СТРАНА
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/107/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Планета
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/123/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 1
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/124/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/531/index.m3u
+#EXTINF:0 tvg-rec="1",KHL
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/519/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 3
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/522/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Арена
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/528/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Игра
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/529/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 2
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/530/index.m3u
+#EXTINF:0 tvg-rec="1",Матч ТВ
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/535/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 1
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/141/index.m3u
+#EXTINF:0 tvg-rec="1",Extreme Sports
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/144/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Боец
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/150/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Sport
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/160/index.m3u
+#EXTINF:0 tvg-rec="1",M-1 Global TV
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/843/index.m3u
+#EXTINF:0 tvg-rec="1",Бокс ТВ
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/870/index.m3u
+#EXTINF:0 tvg-rec="1",Моторспорт ТВ
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2145/index.m3u
+#EXTINF:0 tvg-rec="1",СТАРТ
+#EXTGRP:спорт
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2154/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Nature/History HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/203/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 3 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/206/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Арена HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/207/index.m3u
+#EXTINF:0 tvg-rec="1",Hollywood HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/209/index.m3u
+#EXTINF:0 tvg-rec="1",RTG HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/210/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 2 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/211/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/212/index.m3u
+#EXTINF:0 tvg-rec="1",НТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/213/index.m3u
+#EXTINF:0 tvg-rec="1",Конный Мир HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/214/index.m3u
+#EXTINF:0 tvg-rec="1",Телеканал КХЛ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/215/index.m3u
+#EXTINF:0 tvg-rec="1",Nat Geo Wild HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/216/index.m3u
+#EXTINF:0 tvg-rec="1",Mezzo Live HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/217/index.m3u
+#EXTINF:0 tvg-rec="1",Animal Planet HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/218/index.m3u
+#EXTINF:0 tvg-rec="1",Fox HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/219/index.m3u
+#EXTINF:0 tvg-rec="1",МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/220/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Live HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/221/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Футбол 1 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/222/index.m3u
+#EXTINF:0 tvg-rec="1",Nickelodeon HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/223/index.m3u
+#EXTINF:0 tvg-rec="1",КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/224/index.m3u
+#EXTINF:0 tvg-rec="1",Матч! Игра HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/225/index.m3u
+#EXTINF:0 tvg-rec="1",HD Life
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/226/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery Channel HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/227/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 1 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/228/index.m3u
+#EXTINF:0 tvg-rec="1",Amedia Premium HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/229/index.m3u
+#EXTINF:0 tvg-rec="1",National Geographic HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/230/index.m3u
+#EXTINF:0 tvg-rec="1",History HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/231/index.m3u
+#EXTINF:0 tvg-rec="1",TLC HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/232/index.m3u
+#EXTINF:0 tvg-rec="1",Travel Channel HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/233/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport 2 North-East HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/234/index.m3u
+#EXTINF:0 tvg-rec="1",Остросюжетное HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/904/index.m3u
+#EXTINF:0 tvg-rec="1",Дом Кино Премиум HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/911/index.m3u
+#EXTINF:0 tvg-rec="1",Наш Кинороман HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/914/index.m3u
+#EXTINF:0 tvg-rec="1",Наше крутое HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/915/index.m3u
+#EXTINF:0 tvg-rec="1",Охотник и рыболов HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/917/index.m3u
+#EXTINF:0 tvg-rec="1",ЕДА Премиум
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/918/index.m3u
+#EXTINF:0 tvg-rec="1",Мир HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/235/index.m3u
+#EXTINF:0 tvg-rec="1",BRIDGE HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/236/index.m3u
+#EXTINF:0 tvg-rec="1",ТНТ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/237/index.m3u
+#EXTINF:0 tvg-rec="1",Bollywood HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/239/index.m3u
+#EXTINF:0 tvg-rec="0",Теледом
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/954/index.m3u
+#EXTINF:0 tvg-rec="0",Настоящее время
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/986/index.m3u
+#EXTINF:0 tvg-rec="0",Travel HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1043/index.m3u
+#EXTINF:0 tvg-rec="0",XSPORT HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/996/index.m3u
+#EXTINF:0 tvg-rec="0",FAST&FUN BOX HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1018/index.m3u
+#EXTINF:0 tvg-rec="0",Epic Drama
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1048/index.m3u
+#EXTINF:0 tvg-rec="1",Эврика HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/908/index.m3u
+#EXTINF:0 tvg-rec="1",Приключения HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/920/index.m3u
+#EXTINF:0 tvg-rec="0",DocuBox HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/968/index.m3u
+#EXTINF:0 tvg-rec="1",Setanta Sports 2
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/270/index.m3u
+#EXTINF:0 tvg-rec="1",Setanta Sports HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/271/index.m3u
+#EXTINF:0 tvg-rec="1",Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/272/index.m3u
+#EXTINF:0 tvg-rec="1",UFC ТВ
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2000/index.m3u
+#EXTINF:0 tvg-rec="1",СТС Kids HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2001/index.m3u
+#EXTINF:0 tvg-rec="1",Eurosport Gold HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2002/index.m3u
+#EXTINF:0 tvg-rec="1",Дикая охота HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2004/index.m3u
+#EXTINF:0 tvg-rec="1",Дикая рыбалка HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2005/index.m3u
+#EXTINF:0 tvg-rec="1",DTX HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2006/index.m3u
+#EXTINF:0 tvg-rec="1",Viasat Sport HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2007/index.m3u
+#EXTINF:0 tvg-rec="1",Большая Азия HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2009/index.m3u
+#EXTINF:0 tvg-rec="1",Cartoon Network HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2011/index.m3u
+#EXTINF:0 tvg-rec="1",Fine living HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2027/index.m3u
+#EXTINF:0 tvg-rec="1",C-Music HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2028/index.m3u
+#EXTINF:0 tvg-rec="1",Fashion One HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2044/index.m3u
+#EXTINF:0 tvg-rec="1",Fashion TV HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2045/index.m3u
+#EXTINF:0 tvg-rec="1",A2 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2046/index.m3u
+#EXTINF:0 tvg-rec="1",Киноужас HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2056/index.m3u
+#EXTINF:0 tvg-rec="1",Discovery HD Showcase
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2058/index.m3u
+#EXTINF:0 tvg-rec="1",360° HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2065/index.m3u
+#EXTINF:0 tvg-rec="1",Живая природа HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2074/index.m3u
+#EXTINF:0 tvg-rec="1",Русский роман HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2076/index.m3u
+#EXTINF:0 tvg-rec="1",Russian Extreme HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2077/index.m3u
+#EXTINF:0 tvg-rec="1",В мире животных HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2089/index.m3u
+#EXTINF:0 tvg-rec="1",Планета HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2090/index.m3u
+#EXTINF:0 tvg-rec="1",Anyday HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2091/index.m3u
+#EXTINF:0 tvg-rec="1",Glazella HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2092/index.m3u
+#EXTINF:0 tvg-rec="1",Mute HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2093/index.m3u
+#EXTINF:0 tvg-rec="1",Anyday HD 3D
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2094/index.m3u
+#EXTINF:0 tvg-rec="1",Glazella HD 3D
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2095/index.m3u
+#EXTINF:0 tvg-rec="1",Mute HD 3D
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2096/index.m3u
+#EXTINF:0 tvg-rec="1",ID Xtra HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2102/index.m3u
+#EXTINF:0 tvg-rec="1",Глазами туриста HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2104/index.m3u
+#EXTINF:0 tvg-rec="1",Наше любимое HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2106/index.m3u
+#EXTINF:0 tvg-rec="1",Мир 24 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2107/index.m3u
+#EXTINF:0 tvg-rec="1",Русский иллюзион HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2114/index.m3u
+#EXTINF:0 tvg-rec="1",БСТ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2115/index.m3u
+#EXTINF:0 tvg-rec="1",Загородный int HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2124/index.m3u
+#EXTINF:0 tvg-rec="1",Кухня ТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2127/index.m3u
+#EXTINF:0 tvg-rec="1",Точка отрыва HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2128/index.m3u
+#EXTINF:0 tvg-rec="1",Жара HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2129/index.m3u
+#EXTINF:0 tvg-rec="1",MTV Россия HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2130/index.m3u
+#EXTINF:0 tvg-rec="1",Дорама HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2131/index.m3u
+#EXTINF:0 tvg-rec="1",Наше новое кино HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2133/index.m3u
+#EXTINF:0 tvg-rec="1",Нано ТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2135/index.m3u
+#EXTINF:0 tvg-rec="1",о2тв HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2141/index.m3u
+#EXTINF:0 tvg-rec="1",Моторспорт ТВ HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2146/index.m3u
+#EXTINF:0 tvg-rec="1",Открытый HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2148/index.m3u
+#EXTINF:0 tvg-rec="1",Наука HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2155/index.m3u
+#EXTINF:0 tvg-rec="0",Диалоги о рыбалке HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2394/index.m3u
+#EXTINF:0 tvg-rec="0",Clubbing TV HD RU
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2395/index.m3u
+#EXTINF:0 tvg-rec="0",Fuel TV HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2396/index.m3u
+#EXTINF:0 tvg-rec="0",Setanta Qazaqstan HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2399/index.m3u
+#EXTINF:0 tvg-rec="0",Губерния 33 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2400/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 3 HD
+#EXTGRP:HD
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/290/index.m3u
+
+#EXTINF:0 tvg-rec="0",FRANCE 24 En
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/947/index.m3u
+#EXTINF:0 tvg-rec="0",CNBC
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/962/index.m3u
+#EXTINF:0 tvg-rec="0",Euronews
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/969/index.m3u
+#EXTINF:0 tvg-rec="0",Deutsche Welle DE
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1021/index.m3u
+#EXTINF:0 tvg-rec="0",Инфоканал
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/407/index.m3u
+#EXTINF:0 tvg-rec="1",360°
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/825/index.m3u
+#EXTINF:0 tvg-rec="1",Euronews Россия
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/828/index.m3u
+#EXTINF:0 tvg-rec="1",CGTN
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/830/index.m3u
+#EXTINF:0 tvg-rec="1",CGTN русский
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/831/index.m3u
+#EXTINF:0 tvg-rec="1",RT News
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/840/index.m3u
+#EXTINF:0 tvg-rec="1",CNN International Europe
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/842/index.m3u
+#EXTINF:0 tvg-rec="1",RT Arabic
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/862/index.m3u
+#EXTINF:0 tvg-rec="1",RT Espanol
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/863/index.m3u
+#EXTINF:0 tvg-rec="1",Известия
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2008/index.m3u
+#EXTINF:0 tvg-rec="1",Дождь
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2030/index.m3u
+#EXTINF:0 tvg-rec="1",Центральное телевидение
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2064/index.m3u
+#EXTINF:0 tvg-rec="1",Вместе-РФ
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2073/index.m3u
+#EXTINF:0 tvg-rec="1",RTVi
+#EXTGRP:новости
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2086/index.m3u
+
+#EXTINF:0 tvg-rec="1",SHOT TV
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/526/index.m3u
+#EXTINF:0 tvg-rec="1",Playboy
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/527/index.m3u
+#EXTINF:0 tvg-rec="1",Русская Ночь
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/147/index.m3u
+#EXTINF:0 tvg-rec="1",Brazzers TV Europe
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/910/index.m3u
+#EXTINF:0 tvg-rec="1",Шалун
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/922/index.m3u
+#EXTINF:0 tvg-rec="1",Candy
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/923/index.m3u
+#EXTINF:0 tvg-rec="0",Penthouse TV
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1073/index.m3u
+#EXTINF:0 tvg-rec="0",Blue Hustler
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1064/index.m3u
+#EXTINF:0 tvg-rec="1",Barely legal
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/871/index.m3u
+#EXTINF:0 tvg-rec="1",BRAZZERS TV Europe 2
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/872/index.m3u
+#EXTINF:0 tvg-rec="1",Sexto Senso
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/875/index.m3u
+#EXTINF:0 tvg-rec="0",SCT
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/876/index.m3u
+#EXTINF:0 tvg-rec="1",PRIVE
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/877/index.m3u
+#EXTINF:0 tvg-rec="1",Passion XXX
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/878/index.m3u
+#EXTINF:0 tvg-rec="1",Redlight HD
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/242/index.m3u
+#EXTINF:0 tvg-rec="1",Private TV
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/243/index.m3u
+#EXTINF:0 tvg-rec="0",Hustler HD Europe
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/244/index.m3u
+#EXTINF:0 tvg-rec="1",Dorcel TV HD
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/245/index.m3u
+#EXTINF:0 tvg-rec="1",Pink'o TV
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/874/index.m3u
+#EXTINF:0 tvg-rec="1",Ночной клуб
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2017/index.m3u
+#EXTINF:0 tvg-rec="1",Нюарт TV
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2057/index.m3u
+#EXTINF:0 tvg-rec="1",FrenchLover
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2160/index.m3u
+#EXTINF:0 tvg-rec="1",O-la-la
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2161/index.m3u
+#EXTINF:0 tvg-rec="1",Vivid Red HD
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2162/index.m3u
+#EXTINF:0 tvg-rec="0",Exxxotica HD
+#EXTGRP:взрослые
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2397/index.m3u
+#EXTINF:0 tvg-rec="0",5 канал UA
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/945/index.m3u
+#EXTINF:0 tvg-rec="0",FilmBox
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/948/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/951/index.m3u
+#EXTINF:0 tvg-rec="0",ATR
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/952/index.m3u
+#EXTINF:0 tvg-rec="0",Lale
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/953/index.m3u
+#EXTINF:0 tvg-rec="0",Надiя ТВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/956/index.m3u
+#EXTINF:0 tvg-rec="0",Перший Захiдний
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/957/index.m3u
+#EXTINF:0 tvg-rec="0",UA:ЛЬВIВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/958/index.m3u
+#EXTINF:0 tvg-rec="0",BBB TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/959/index.m3u
+#EXTINF:0 tvg-rec="0",Центральный канал
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/963/index.m3u
+#EXTINF:0 tvg-rec="0",Черноморская ТРК
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/965/index.m3u
+#EXTINF:0 tvg-rec="0",112 Україна
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/924/index.m3u
+#EXTINF:0 tvg-rec="0",EU Music
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/925/index.m3u
+#EXTINF:0 tvg-rec="0",NewsOne
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/926/index.m3u
+#EXTINF:0 tvg-rec="0",Eспресо TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/927/index.m3u
+#EXTINF:0 tvg-rec="0",Мега
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/929/index.m3u
+#EXTINF:0 tvg-rec="0",К2
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/930/index.m3u
+#EXTINF:0 tvg-rec="0",К1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/931/index.m3u
+#EXTINF:0 tvg-rec="0",Квартал ТВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/932/index.m3u
+#EXTINF:0 tvg-rec="0",Enter-фільм
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/933/index.m3u
+#EXTINF:0 tvg-rec="0",Новий Канал
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/935/index.m3u
+#EXTINF:0 tvg-rec="0",НТН
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/936/index.m3u
+#EXTINF:0 tvg-rec="0",Інтер
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/937/index.m3u
+#EXTINF:0 tvg-rec="0",Пiксель ТВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/938/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской (Кривой Рог)
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/939/index.m3u
+#EXTINF:0 tvg-rec="0",ID Fashion
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/940/index.m3u
+#EXTINF:0 tvg-rec="0",Культура
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/941/index.m3u
+#EXTINF:0 tvg-rec="0",Телевсесвiт
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/942/index.m3u
+#EXTINF:0 tvg-rec="0",Медiаiнформ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/943/index.m3u
+#EXTINF:0 tvg-rec="0",Skrypin.UA
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/944/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Алекс
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/967/index.m3u
+#EXTINF:0 tvg-rec="0",4ever Music
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/970/index.m3u
+#EXTINF:0 tvg-rec="0",Глас
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/972/index.m3u
+#EXTINF:0 tvg-rec="0",Правда Тут
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/973/index.m3u
+#EXTINF:0 tvg-rec="0",Тернопіль 1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/975/index.m3u
+#EXTINF:0 tvg-rec="0",Рада
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/976/index.m3u
+#EXTINF:0 tvg-rec="0",MAXXI TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/977/index.m3u
+#EXTINF:0 tvg-rec="0",News Network
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/978/index.m3u
+#EXTINF:0 tvg-rec="0",Южная волна
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/979/index.m3u
+#EXTINF:0 tvg-rec="0",Первый городской
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/981/index.m3u
+#EXTINF:0 tvg-rec="0",СК1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/982/index.m3u
+#EXTINF:0 tvg-rec="0",Перший дiловий
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/985/index.m3u
+#EXTINF:0 tvg-rec="0",1+1 International
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/987/index.m3u
+#EXTINF:0 tvg-rec="0",Громадське
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/988/index.m3u
+#EXTINF:0 tvg-rec="0",BOLT
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/991/index.m3u
+#EXTINF:0 tvg-rec="0",Star Cinema
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/992/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвецький Промiнь
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1004/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Перший
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1016/index.m3u
+#EXTINF:0 tvg-rec="0",UA:Крым
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1017/index.m3u
+#EXTINF:0 tvg-rec="0",MostVideo.TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1027/index.m3u
+#EXTINF:0 tvg-rec="0",OBOZ TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1028/index.m3u
+#EXTINF:0 tvg-rec="0",TV5
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1030/index.m3u
+#EXTINF:0 tvg-rec="0",Star Family
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1042/index.m3u
+#EXTINF:0 tvg-rec="0",Интер+
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1047/index.m3u
+#EXTINF:0 tvg-rec="0",O-TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1055/index.m3u
+#EXTINF:0 tvg-rec="0",D1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1058/index.m3u
+#EXTINF:0 tvg-rec="0",1+1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/994/index.m3u
+#EXTINF:0 tvg-rec="0",2+2
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/995/index.m3u
+#EXTINF:0 tvg-rec="0",UKRAINE 1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/997/index.m3u
+#EXTINF:0 tvg-rec="0",Бiгудi
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/989/index.m3u
+#EXTINF:0 tvg-rec="0",НТА
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/990/index.m3u
+#EXTINF:0 tvg-rec="0",ТВА
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/998/index.m3u
+#EXTINF:0 tvg-rec="0",Вiнтаж ТВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/999/index.m3u
+#EXTINF:0 tvg-rec="0",ZOOM
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1000/index.m3u
+#EXTINF:0 tvg-rec="0",ПлюсПлюс
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1002/index.m3u
+#EXTINF:0 tvg-rec="0",Малятко ТВ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1003/index.m3u
+#EXTINF:0 tvg-rec="0",Галичина
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1005/index.m3u
+#EXTINF:0 tvg-rec="0",Еко TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1006/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK HD
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1007/index.m3u
+#EXTINF:0 tvg-rec="0",ZIK
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1008/index.m3u
+#EXTINF:0 tvg-rec="0",ТЕТ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1009/index.m3u
+#EXTINF:0 tvg-rec="0",Україна
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1011/index.m3u
+#EXTINF:0 tvg-rec="0",HDFASHION&LifeStyle
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1012/index.m3u
+#EXTINF:0 tvg-rec="0",Сонце
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1013/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV2
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1014/index.m3u
+#EXTINF:0 tvg-rec="0",Прямий HD
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1015/index.m3u
+#EXTINF:0 tvg-rec="0",КРТ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1019/index.m3u
+#EXTINF:0 tvg-rec="0",ЧП.INFO
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1020/index.m3u
+#EXTINF:0 tvg-rec="0",Ескулап TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1022/index.m3u
+#EXTINF:0 tvg-rec="0",УНІАН
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1023/index.m3u
+#EXTINF:0 tvg-rec="0",UA|TV HD
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1024/index.m3u
+#EXTINF:0 tvg-rec="0",36.6 TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1025/index.m3u
+#EXTINF:0 tvg-rec="0",Milady Television
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1026/index.m3u
+#EXTINF:0 tvg-rec="0",BOUTIQUE TV
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1029/index.m3u
+#EXTINF:0 tvg-rec="0",NLO TV1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1032/index.m3u
+#EXTINF:0 tvg-rec="0",7 канал
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1035/index.m3u
+#EXTINF:0 tvg-rec="0",Music Box UA HD
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1036/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Круг
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1040/index.m3u
+#EXTINF:0 tvg-rec="0",ТРК Київ
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1045/index.m3u
+#EXTINF:0 tvg-rec="0",8 Канал UA
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1046/index.m3u
+#EXTINF:0 tvg-rec="0",Чернiвцi
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1072/index.m3u
+#EXTINF:0 tvg-rec="0",24 Канал HD
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1063/index.m3u
+#EXTINF:0 tvg-rec="0",4 канал
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1039/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 1
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1109/index.m3u
+#EXTINF:0 tvg-rec="0",Футбол 2
+#EXTGRP:українські
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1110/index.m3u
+#EXTINF:0 tvg-rec="0",Беларусь 24
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/1061/index.m3u
+#EXTINF:0 tvg-rec="1",БелРос
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/835/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 1
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2170/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 2
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2173/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 3
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2174/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 1 HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2178/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 2 HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2179/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 3 HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2180/index.m3u
+#EXTINF:0 tvg-rec="1",Беларусь 5 HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2177/index.m3u
+#EXTINF:0 tvg-rec="1",ВТВ (СТС)
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2176/index.m3u
+#EXTINF:0 tvg-rec="1",СТВ
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2172/index.m3u
+#EXTINF:0 tvg-rec="1",СТВ HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2184/index.m3u
+#EXTINF:0 tvg-rec="1",ОНТ
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2171/index.m3u
+#EXTINF:0 tvg-rec="1",ОНТ HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2182/index.m3u
+#EXTINF:0 tvg-rec="1",РТР HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2181/index.m3u
+#EXTINF:0 tvg-rec="1",Cinema HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2185/index.m3u
+#EXTINF:0 tvg-rec="1",8 Канал HD
+#EXTGRP:беларускія
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2186/index.m3u
+#EXTINF:0 tvg-rec="0",Publika TV
+#EXTGRP:moldoveneasca
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2251/index.m3u
+#EXTINF:0 tvg-rec="0",Первый FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2402/index.m3u
+#EXTINF:0 tvg-rec="0",КХЛ FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2403/index.m3u
+#EXTINF:0 tvg-rec="0",РБК FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2404/index.m3u
+#EXTINF:0 tvg-rec="0",Моторспорт ТВ FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2405/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Игра FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2406/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Футбол 1 FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2407/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Футбол 3 FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2408/index.m3u
+#EXTINF:0 tvg-rec="0",Россия FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2409/index.m3u
+#EXTINF:0 tvg-rec="0",Премиальное FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2410/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion TV FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2411/index.m3u
+#EXTINF:0 tvg-rec="0",Fashion One FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2412/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2413/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Премьер FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2414/index.m3u
+#EXTINF:0 tvg-rec="0",Nat Geo Wild FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2415/index.m3u
+#EXTINF:0 tvg-rec="0",National Geographic FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2416/index.m3u
+#EXTINF:0 tvg-rec="0",ТНТ FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2417/index.m3u
+#EXTINF:0 tvg-rec="0",ЕДА Премиум FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2418/index.m3u
+#EXTINF:0 tvg-rec="0",Food Network FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2419/index.m3u
+#EXTINF:0 tvg-rec="0",Матч! Футбол 2 FHD
+#EXTGRP:Full HD (50fps)
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/2420/index.m3u
+#EXTINF:0 tvg-rec="0",Ultra HD Cinema 4K
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4000/index.m3u
+#EXTINF:0 tvg-rec="0",TRT 4K
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4001/index.m3u
+#EXTINF:0 tvg-rec="0",Home 4K
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4002/index.m3u
+#EXTINF:0 tvg-rec="0",Наша Сибирь 4K
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4003/index.m3u
+#EXTINF:0 tvg-rec="0",Eurosport 4K
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4004/index.m3u
+#EXTINF:0 tvg-rec="0",FTV UHD
+#EXTGRP:4K
+http://dd7038e2.ucomist.net/iptv/7C46GBH8BSYUFD/4005/index.m3u
+
+#EXTINF:1,Prime
+http://212.0.217.42/live/disk1/Prime_1-vs3/SA/Prime_1-vs3.m3u8
+#EXTINF:1,Prime HD
+http://212.0.217.42/live/disk1/PrimeHD_801-vs3/SA/PrimeHD_801-vs3.m3u8
+#EXTINF:0,Primul in Moldova
+https://video.a-tv.md/hls/tv.m3u8
+#EXTINF:1,Canal 2
+http://212.0.217.42/live/disk1/Canal2_2-vs3/SA/Canal2_2-vs3.m3u8
+#EXTINF:1,Canal 2 HD
+http://212.0.217.42/live/disk1/Canal2HD_802-vs3/SA/Canal2HD_802-vs3.m3u8
+#EXTINF:1,Canal 3
+http://212.0.217.42/live/disk1/Canal3_3-vs3/SA/Canal3_3-vs3.m3u8
+#EXTINF:1,Canal 3 HD
+http://212.0.217.42/live/disk1/Canal3HD_803-vs3/SA/Canal3HD_803-vs3.m3u8
+#EXTINF:1,JurnalTV HD
+http://212.0.217.42/live/disk1/JurnalTVHD_805-vs3/SA/JurnalTVHD_805-vs3.m3u8
+#EXTINF:1,PublikaTV
+http://212.0.217.42/live/disk1/PublikaTV_4-vs3/SA/PublikaTV_4-vs3.m3u8
+#EXTINF:1,PublikaTV HD
+http://212.0.217.42/live/disk1/PublikaTVHD_804-vs3/SA/PublikaTVHD_804-vs3.m3u8
+#EXTINF:1,Moldova 1
+http://212.0.217.42/live/disk1/Moldova1_5-vs3/SA/Moldova1_5-vs3.m3u8
+#EXTINF:-1,MOLDOVA 2
+http://www.trm.md/live/MoldovaDoi2/chunklist_w100565256.m3u8
+#EXTINF:1,РЕНТВ Moldova
+http://212.0.217.42/live/disk1/RENTVMoldova_26-vs3/SA/RENTVMoldova_26-vs3.m3u8
+#EXTINF:-1,Рен ТВ International
+http://sc.id-tv.kz/RenTV_38_39.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:1,NTV Moldova
+http://212.0.217.42/live/disk1/NTVMoldova_10-vs3/SA/NTVMoldova_10-vs3.m3u8
+#EXTINF:1, RTR Moldova  
+http://212.0.217.42/live/disk1/RTRMoldova_17-vs3/SA/RTRMoldova_17-vs3.m3u8
+#EXTINF:1,N4
+http://212.0.217.42/live/disk1/N4_15-vs3/SA/N4_15-vs3.m3u8
+#EXTINF:1,TV8
+http://212.0.217.42/live/disk1/TV8_16-vs3/SA/TV8_16-vs3.m3u8
+#EXTINF:1,CTC Mega
+http://212.0.217.42/live/disk1/CTC_8-vs3/SA/CTC_8-vs3.m3u8
+#EXTINF:1,THT Exclusiv TV
+http://212.0.217.42/live/disk1/THT_14-vs3/SA/THT_14-vs3.m3u8
+#EXTINF:1,Familia Domashniy
+http://212.0.217.42/live/disk1/Domashniy_9-vs3/SA/Domashniy_9-vs3.m3u8
+#EXTINF:-1,ACCENT TV
+http://video.a-tv.md/hls/accent.m3u8
+#EXTINF:-1,DROCHIA TV
+https://hls.drochia.tv/tv/web.m3u8
+#EXTINF:-1,Цeнтральное TV
+http://188.191.208.35:3503/tvc
+#EXTINF:-1,BTV
+http://178.168.90.137:8000/play/3072/index.m3u8
+#EXTINF:-1,Elita Rezina
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:0, AGRO TV 
+http://web.sats.gstv.tech/cpl11/540d63d5-8910-4a20-ac15-a7bfcca9dbd3/agrotvweb.m3u8
+#EXTINF:-1,VOCEA BASARABIEI 
+http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
+#EXTINF:-1,CIMISLIA TV
+http://212.0.215.106/MediaTV/mpegts
+#EXTINF:-1,ORHEI TV
+http://212.0.215.106/OrheiTV/mpegts
+#EXTINF:1,MBC
+http://212.0.217.42/live/disk1/MBC_21-vs3/SA/MBC_21-vs3.m3u8
+#EXTINF:1,TVC21
+http://212.0.217.42/live/disk1/TVC21_24-vs3/SA/TVC21_24-vs3.m3u8
+#EXTINF:-1,PRO TV CHISINAU
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:1,Kanal D
+http://212.0.217.42/live/disk1/KanalD_12-vs3/SA/KanalD_12-vs3.m3u8
+#EXTINF:-1,Antena 1
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:1,TVR
+http://212.0.217.42/live/disk1/TVR_19-vs3/SA/TVR_19-vs3.m3u8
+#EXTINF:-1,ITV MOLDOVA
+http://212.0.215.106/ITV/mpegts
+#EXTINF:-1, TVR Moldova
+http://89.136.209.30:1935/liveedge/TVRMOLDOVA.stream/playlist.m3u8
+#EXTINF:-1,TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1,TVR 2 
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1,TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1,TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:1,RealitateaTV
+http://212.0.217.42/live/disk1/RealitateaTVRomania_603-vs3/SA/RealitateaTVRomania_603-vs3.m3u8
+#EXTINF:1,Discovery Channel
+http://212.0.217.42/live/disk1/Discovery_402-vs3/SA/Discovery_402-vs3.m3u8
+#EXTINF:1,TLC
+http://212.0.217.42/live/disk1/TLC_501-vs3/SA/TLC_501-vs3.m3u8
+#EXTINF:1,КиноТВ
+http://212.0.217.42/live/disk1/KinoTV_101-vs3/SA/KinoTV_101-vs3.m3u8
+#EXTINF:1,Кинохит
+http://212.0.217.42/live/disk1/Kinohit_102-vs3/SA/Kinohit_102-vs3.m3u8
+#EXTINF:1,Киносемья
+http://212.0.217.42/live/disk1/KinoSemya_103-vs3/SA/KinoSemya_103-vs3.m3u8
+#EXTINF:1,Мульт
+http://212.0.217.42/live/disk1/Mult_203-vs3/SA/Mult_203-vs3.m3u8
+#EXTINF:1,Nickelodeon
+http://212.0.217.42/live/disk1/Nickelodeon_204-vs3/SA/Nickelodeon_204-vs3.m3u8
+#EXTINF:1,Disney
+http://212.0.217.42/live/disk1/Disney_205-vs3/SA/Disney_205-vs3.m3u8
+#EXTINF:1,Boomerang
+http://212.0.217.42/live/disk1/Boomerang_206-vs3/SA/Boomerang_206-vs3.m3u8
+#EXTINF:1,Nick Jr.
+http://212.0.217.42/live/disk1/NickJr_207-vs3/SA/NickJr_207-vs3.m3u8
+#EXTINF:1,Cartoon Network
+http://212.0.217.42/live/disk1/CartoonTCM_208-vs3/SA/CartoonTCM_208-vs3.m3u8
+#EXTINF:1,Eurosport
+http://212.0.217.42/live/disk1/Eurosport_301-vs3/SA/Eurosport_301-vs3.m3u8
+#EXTINF:1,Setanta
+http://212.0.217.42/live/disk1/Setanta_306-vs3/SA/Setanta_306-vs3.m3u8
+#EXTINF:1,Sport 1
+http://212.0.217.42/live/disk1/Sport1_310-vs3/SA/Sport1_310-vs3.m3u8
+#EXTINF:1,Euronews
+http://212.0.217.42/live/disk1/Euronews_601-vs3/SA/Euronews_601-vs3.m3u8
+#EXTINF:1,NorocTV HD
+http://212.0.217.42/live/disk1/NorocTVHD_820-vs3/SA/NorocTVHD_820-vs3.m3u8
+#EXTINF:1,Gurinel TV
+http://212.0.217.42/live/disk1/GurinelTV_202-vs3/SA/GurinelTV_202-vs3.m3u8
+#EXTINF:-1,BUSUIOC TV
+http://212.0.215.115/Busuioc/mpegts
+#EXTINF:-1,Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:-1,AXIAL TV
+http://212.0.215.106/AxialTV/mpegts
+#EXTINF:1,GoldTV
+http://212.0.217.42/live/disk1/GoldTV_701-vs3/SA/GoldTV_701-vs3.m3u8
+#EXTINF:1,UTV
+http://212.0.217.42/live/disk1/UTV_702-vs3/SA/UTV_702-vs3.m3u8
+#EXTINF:1,RUTV Moldova
+http://212.0.217.42/live/disk1/RUTVMoldova_704-vs3/SA/RUTVMoldova_704-vs3.m3u8
+#EXTINF:-1,GOLD TV
+http://212.0.215.106/GoldTV/mpegts
+#EXTINF:-1,ZONA M
+http://188.191.208.35:3502/zonam?m3u8
+#EXTINF:-1,KISS TV 
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, Шокирующее
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+#EXTINF:-1,A2
+http://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1,Моя Планета
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Неизвестная планета
+http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
+#EXTINF:-1,RT Документальный HD
+https://rtmp.api.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,CGTN русский
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1,ННТВ HD 
+http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1,НТМ HD 
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1,Урал-Информ ТВ
+http://212.8.233.150:8081/ural/ural_inform/playlist.m3u8
+#EXTINF:-1,Новороссия ТВ 
+http://dprtv.phoenix-dnr.ru/novorossia-tv
+#EXTINF:-1,Красная линия ТВ
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+#EXTINF:-1,Звезда
+http://tvzvezda.bonus-tv.ru:80/cdn/tvzvezda/tracks-v1a1/index.m3u8
+#EXTINF:-1,VRT.TV
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13.sdp/playlist.m3u8
+#EXTINF:-1,ТНТ_International
+http://streams.tv.mts.by/tnt_international/1/index.m3u8
+#EXTINF:-1,Россия РТР
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 HD
+https://a3569457661-s26881.cdn.ngenix.net/hls/russia_hd/playlist_3.m3u8
+#EXTINF:-1,Россия 1
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Россия 1 (+6)
+http://tv-online.gtrkchita.ru:8080/hls/r1-chita_360p.m3u8
+#EXTINF:-1,Россия К
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1,СТС International
+http://sc.id-tv.kz/STS_36_37.m3u8
+#EXTINF:, СТС Прима
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:0,Че +2
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1,Россия 24
+http://a3569456481-s26881.cdn.ngenix.net/live/smil:r24.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Москва 24
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Каббала ТВ
+https://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,Мир ТВ
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+#EXTINF:-1,Мир PREMIUM
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Известия ТВ 
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1,Настоящее время
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,Вместе РФ HD
+http://serv25.vintera.tv:8081/vmesterf/vmesterf/playlist.m3u8
+#EXTINF:-1,МИГ ТВ HD 
+http://live-migtv.cdnvideo.ru/migtv/migtv.sdp/playlist.m3u8
+#EXTINF:-1,Моя Удмуртия
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1,ИКС ТВ
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/chunklist.m3u8
+#EXTINF:-1,Эфир ТВ HD
+http://stream.efir24.tv:1935/live/efirkazan/playlist.m3u8
+#EXTINF:-1,ОТР HD
+http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/playlist.m3u8
+#EXTINF:-1,Афонтово (Красноярск)
+http://xstream.afontovo.ru/afontovo_sd.m3u8
+#EXTINF:-1,Алания 1
+http://hls-alaniatv.cdnvideo.ru/alaniatv/alania1/playlist.m3u8
+#EXTINF:-1,Первый Городской (Калининград)
+http://live-1gorodskoi.cdnvideo.ru/1gorodskoi/klg.sdp/playlist.m3u8
+#EXTINF:-1,Ростов папа ТВ
+http://hls-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rostovpapa
+#EXTINF:-1,Сергиев Пасад 24
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.tvr24
+#EXTINF:-1,CBC 
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1,Аист ТВ (Иркутск) +5
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1,Вестник Надыма
+http://live-trknadym.cdnvideo.ru/trknadym-pub/trknadym.sdp/playlist.m3u8
+#EXTINF:-1,Свое ТВ (Ставрополь)
+http://serv24.vintera.tv:8081/svoetv/stvsd/playlist.m3u8
+#EXTINF:-1,Астрахань 24
+http://streaming.astrakhan.ru/astrakhan24/tracks-v3a1/index.m3u8
+#EXTINF:-1,Удмуртия ТВ (Ижевск)
+http://hls-myudm.cdnvideo.ru/myudm-live/myudm.sdp/playlist.m3u8
+#EXTINF:-1,Толк ТВ (Барнаул)
+http://5c4d56be6c927.streamlock.net:1935/tolknewstv/livestream/chunklist.m3u8
+#EXTINF:-1,Ямал-Регион (Салехард) +2
+https://yamal.mediacdn.ru/cdn/yamal/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Якутия 24
+http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
+#EXTINF:-1,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,12 Канал (Омск)
+http://live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8
+#EXTINF:-1,IKS Sevastopol
+http://ikstv-htlive.cdn.ngenix.net/live/_definst_/ikstv/playlist.m3u8
+#EXTINF:-1,86 канал (Сургут) +2
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1,С1 Сургут HD
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1,Univer TV HD
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:-1,360° Новости HD
+http://360tv-cdn.facecast.io/360/channel1/1.m3u8
+#EXTINF:-1,ТРК Евразия (Орск)
+http://infochhdcdn.trkeurasia.ru:80/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1,Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_38_39.m3u8
+#EXTINF:-1,Татарстан 24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1,Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1,Тюменское Время
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,TVM Channel
+http://149.154.68.132:8081/HOLA/stream/playlist.m3u8
+#EXTINF:-1,Волгоград 24
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1,Юрган ТВ
+http://yurgan.bonus-tv.ru/cdn/yurgan/tracks-v3a1/index.m3u8
+#EXTINF:-1,Барс ТВ 
+http://iptv.barstv.ru/hls/stream1.m3u8
+#EXTINF:-1,Сургут +2
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1,Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1,Югра
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1,Аист ТВ 
+http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1,Кварц ТВ 
+http://109.94.1.3:8080/Infokanal/video.m3u8
+#EXTINF:-1,Астрахань 24 
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1,Ветта 24
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1,Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1,Малятко ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:-1,Любимое.TV
+http://live.planeta-online.tv:1935/public/channel_6/playlist.m3u8
+#EXTINF:-1,Астрахань.Ru Sport
+http://91.211.143.214/astrakhanrusporthd/tracks-v3a1/index.m3u8
+#EXTINF:-1,Астрахань.Ru Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1,RU TV
+https://rut-v.gcdn.co/streams/1410_1323/360n/index.m3u8
+#EXTINF:-1,O-TV
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8
+#EXTINF:-1,М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,4Fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,Disco Polo Music
+http://hls.redefine.pl/E33F843E/10260/0/hls576/576p/list.m3u8
+#EXTINF:-1,Новое Радио
+http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/chunklist_b4128000.m3u8
+#EXTINF:-1,радио Хит ТВ
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1,UA:Перший
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8
+#EXTINF:-1,UA:Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8
+#EXTINF:-1,UA:Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1,UA:Закарпаття
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1,UA:Одеса
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8
+#EXTINF:-1,Галичина
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1,Київ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,5 канал Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1293299450.m3u8
+#EXTINF:-1,Прямий
+http://api.tv.ipnet.ua/api/v1/manifest/1293294600.m3u8
+#EXTINF:-1,112 Україна
+http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8
+#EXTINF:-1,Громадське ТБ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742457.m3u8
+#EXTINF:-1,Новини 24
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
+#EXTINF:-1,Еспресо
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,Наш
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,4 Київ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+#EXTINF:-1,Перший західний
+http://api.tv.ipnet.ua/api/v1/manifest/2118742459.m3u8
+#EXTINF:-1,КРТ
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
+#EXTINF:-1,ЕКО-ТВ
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
+#EXTINF:-1,RAI
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1,Черноморская ТРК
+http://api.tv.ipnet.ua/api/v1/manifest/2007331741.m3u8
+#EXTINF:-1,ATR
+http://api.tv.ipnet.ua/api/v1/manifest/2007308341.m3u8
+#EXTINF:-1,UA TV
+http://api.tv.ipnet.ua/api/v1/manifest/2118742330.m3u8
